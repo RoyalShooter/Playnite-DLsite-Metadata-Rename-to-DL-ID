@@ -1,0 +1,6 @@
+﻿Id: RenameTODLID_936ff9c3-374d-4a11-8b6a-be763ce4ff94
+Name: PowerShell Extension
+Author: Royal
+Version: 1.2
+Module: RenameTODLID.psm1
+Type: Script
