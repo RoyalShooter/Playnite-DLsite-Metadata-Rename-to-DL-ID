@@ -26,4 +26,5 @@ After importing the game, you may see some of your game's name is incorrect such
 This script tries to extract games name and code from path and also the auto detect field from playnite, it searches at DLsite and google to see if it finds the game code. If it does, it will change the name field in playnite for it to work with the metadata extensions.
 
 
+
 ![Preview](/Preview.gif)
