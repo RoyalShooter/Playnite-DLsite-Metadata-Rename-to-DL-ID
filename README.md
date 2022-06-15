@@ -2,6 +2,8 @@
 
 ### This script is designed to use with [erri120's Playnite DLsite metadata Extensions](https://github.com/erri120/Playnite.Extensions). All it does is to help you translate your DLsite games name into DLsite game ID for erri120's DLsite metadata to work properly.
 
+### This script support all DLsite games with RJ000000 code and VJ000000.
+
 #### Thank you erri120 for making the DLsite metadata Extensions.
 
 
